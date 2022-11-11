@@ -25,3 +25,4 @@ npm install
 ```sh
 npm run dev
 ```
+Need some matic in wallet to pay for storage fees.
