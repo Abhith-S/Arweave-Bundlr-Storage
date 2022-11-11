@@ -1,4 +1,4 @@
-## Basic example of using Bundlr + Arweave in a client-side JavaScript application to store files
+## NodeJs application using Bundlr to store files on the Arweave Network.
 
 To run this project:
 
