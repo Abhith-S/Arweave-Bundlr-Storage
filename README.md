@@ -5,7 +5,7 @@ To run this project:
 1. Clone the repo
 
 ```sh
-git clone git@github.com:dabit3/bundlr-arweave-example.git
+git clone https://github.com/Abhith-S/Arweave-Bundlr-file-storage.git
 ```
 
 2. Change into the directory
