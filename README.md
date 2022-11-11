@@ -5,13 +5,13 @@ To run this project:
 1. Clone the repo
 
 ```sh
-git clone https://github.com/Abhith-S/Arweave-Bundlr-file-storage.git
+git clone https://github.com/Abhith-S/Arweave-Bundlr-Storage.git
 ```
 
 2. Change into the directory
 
 ```sh
-cd bundlr-arweave-example
+cd Arweave-Bundlr-Storage
 ```
 
 3. Install the dependencies
