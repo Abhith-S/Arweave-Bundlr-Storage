@@ -1,4 +1,4 @@
-## Basic example of using Bundlr + Arweave in a client-side JavaScript application
+## Basic example of using Bundlr + Arweave in a client-side JavaScript application to store files
 
 To run this project:
 
@@ -25,4 +25,4 @@ npm install
 ```sh
 npm run dev
 ```
-Need some matic in wallet to pay for storage fees.
+Need some matic (0.1 is enough) in wallet to pay for storage fees.
