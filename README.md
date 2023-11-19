@@ -1,4 +1,4 @@
-## NodeJs application using Bundlr to store files on the Arweave Network.
+## Next.js application using Bundlr to store files on the Arweave Network.
 
 To run this project:
 
